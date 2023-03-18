@@ -4,4 +4,4 @@ npx hardhat run --network goerli scripts/deploy.js
 (scripting)
 
 The smart contract address in deployed
-0xD540796299d67A0e7f8880131159C2221e99EfF2 (KEEP THIS)
+0x77B9B0ace19fe2Ec236679e94f9a3cDbC507D30B  (KEEP THIS)

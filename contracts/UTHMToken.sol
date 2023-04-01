@@ -20,7 +20,8 @@ contract UTHMToken is ERC20Capped, ERC20Burnable{
         super._mint(account, amount);
     }
 
-        //make it internal so we cannot called it from outside
+        //make it internal keyword so we cannot called it from outside
+        //_beforeTokenTransfer() will call this function to send  the token to student account
     function _mintMinerReward() internal {
             _mint(block.coinbase, blockReward);
     }

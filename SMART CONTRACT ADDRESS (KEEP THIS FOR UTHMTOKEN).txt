@@ -4,4 +4,4 @@ npx hardhat run --network goerli scripts/deploy.js
 (scripting)
 
 The smart contract address in deployed (To import UTHM Token)
-0x77B9B0ace19fe2Ec236679e94f9a3cDbC507D30B (KEEP THIS)
+0xB5e5EAF54f06C08a727ce5BEbCe4fe8111fA90ec (KEEP THIS)
